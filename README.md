@@ -2,6 +2,8 @@
 - 👀 I’m interested in computer science 
 - 🌱 I’m currently learning python and C
 - 📫 How to reach me : ntarkos@gmail.com
+- 💻 MacBook user but Linux lover!
+- 🇬🇷 I'm leaving in Greece 
 
 <!---
 ntarkos/ntarkos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
