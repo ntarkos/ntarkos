@@ -4,6 +4,8 @@
 - 📫 How to reach me : ntarkos@gmail.com
 - 💻 MacBook user but Linux lover!
 - 🇬🇷 I'm leaving in Greece 
+- 🎓 I'm studying to Hellinik Open University 
+
 
 <!---
 ntarkos/ntarkos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
