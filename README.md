@@ -4,7 +4,7 @@
 - 📫 How to reach me : ntarkos@gmail.com
 - 💻 MacBook user but Linux lover!
 - 🇬🇷 I'm leaving in Greece 
-- 🎓 I'm studying to Hellinik Open University 
+- 🎓 I'm studying to Hellenic Open University 
 
 
 <!---
